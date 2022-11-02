@@ -1,0 +1,3 @@
+com\josephio\springchronicledisruptor\SpringChronicleDisruptorApplication.class
+com\josephio\springchronicledisruptor\queue\queue.class
+com\josephio\springchronicledisruptor\queue\chronicle\endpoint.class
